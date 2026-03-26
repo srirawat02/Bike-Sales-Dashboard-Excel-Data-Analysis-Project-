@@ -73,18 +73,18 @@ The visualizations update dynamically based on these filters.
 ## 📈 Key Visualizations & Insights
 
 1. Average Income per Purchase
-   ![Average Income per Purchase](images/avg_income_chart.png)
    
-Insight
+   <img width="570" height="440" alt="image" src="https://github.com/user-attachments/assets/6fb0bfc1-ec6c-439b-866c-d0dd9d5b62f3" />
 
-- Males have higher average income compared to females.
-
-- Customers who purchased bikes generally have higher incomes than those who did not.
-
-- This suggests that income level strongly influences bike purchasing decisions.
+   Insight
+   - Males have higher average income compared to females.
+   - Customers who purchased bikes generally have higher incomes than those who did not.
+   - This suggests that income level strongly influences bike purchasing decisions.
   
 2. Customer Commute Distance
-   ![Customer Commute Distance](images/commute_chart.png)
+   
+  <img width="1200" height="410" alt="image" src="https://github.com/user-attachments/assets/5826e80a-5f75-44d6-b642-cab6b70a48f4" />
+
    Insight
    
    - Customers with short commute distances (0–1 miles) are the most likely to purchase bikes.
@@ -94,69 +94,59 @@ Insight
    - This suggests that bikes are commonly used for short-distance commuting or local travel.
 
    
-4. Customer Age Brackets
+3. Customer Age Brackets
+   
+   <img width="627" height="447" alt="image" src="https://github.com/user-attachments/assets/bc88fbbc-6cb6-425b-8d5f-701955ca3bd6" />
 
 
+   Insight
 
-2️⃣ Customer Commute Distance
-
-
-3️⃣ Customer Age Brackets
-
-📌 Place this visualization screenshot here
-
-![Customer Age Brackets](images/age_brackets_chart.png)
-Insight
-Middle-aged customers represent the largest group of bike buyers.
-Adolescents and older age groups purchase bikes less frequently.
-This indicates that working-age individuals are the primary target market for bikes.
-🎛 Dashboard Filters (Slicers)
+   - Middle-aged customers represent the largest group of bike buyers.
+   - Adolescents and older age groups purchase bikes less frequently.
+   - This indicates that working-age individuals are the primary target market for bikes.
+     
+## 🎛 Dashboard Filters (Slicers)
 
 The dashboard includes interactive filters that allow deeper analysis.
 
-Marital Status
-Compare purchasing patterns between married and single customers.
-Education
-Analyze how education level affects bike purchasing decisions.
-Region
-Understand bike purchasing trends across Europe, North America, and Pacific regions.
+- Marital Status
+   Compare purchasing patterns between married and single customers.
+- Education
+   Analyze how education level affects bike purchasing decisions.
+- Region
+   Understand bike purchasing trends across Europe, North America, and Pacific regions.
 
 These filters make the dashboard fully interactive and dynamic.
 
-🧠 Business Insights
+## 🧠 Business Insights
 
 From the analysis, several important insights were discovered:
 
-💰 Income Impact
+- 💰 Income Impact
 
-Customers with higher incomes are more likely to purchase bikes.
+   Customers with higher incomes are more likely to purchase bikes.
 
-👨‍👩‍👧 Age Demographics
+- 👨‍👩‍👧 Age Demographics
 
-Middle-aged customers form the largest segment of bike buyers.
+   Middle-aged customers form the largest segment of bike buyers.
 
-🚴 Commute Patterns
+- 🚴 Commute Patterns
 
-Short-distance commuters are the most likely to purchase bikes.
+   Short-distance commuters are the most likely to purchase bikes.
 
-📊 Customer Segmentation
+- 📊 Customer Segmentation
 
-Demographic attributes such as income, age, and commute distance play a major role in bike purchasing behavior.
+   Demographic attributes such as income, age, and commute distance play a major role in bike purchasing behavior.
 
-🛠 Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Data Cleaning Techniques
-Slicers (Interactive Filters)
-Dashboard Design
-🎯 Project Goals
-Clean and prepare raw customer data
-Analyze purchasing behavior using pivot tables
-Build an interactive Excel dashboard
-Identify patterns in bike sales
-Demonstrate Excel-based business analytics skills
-🏁 Conclusion
+## 🎯 Project Goals
+
+- Clean and prepare raw customer data
+- Analyze purchasing behavior using pivot tables
+- Build an interactive Excel dashboard
+- Identify patterns in bike sales
+- Demonstrate Excel-based business analytics skills
+
+## 🏁 Conclusion
 
 This project demonstrates how Excel can be used to transform raw customer data into meaningful insights through dashboards and visualizations.
 
